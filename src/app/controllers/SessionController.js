@@ -1,4 +1,4 @@
-import users_list from '../../database';
+import { users_list } from '../../database';
 
 
 class SessionController {
